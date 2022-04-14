@@ -1,0 +1,2 @@
+passxord = input("enter your password = ")
+print("your password is = ")
