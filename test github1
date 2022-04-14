@@ -1,2 +1,2 @@
-passxord = input("enter your password = ")
-print("your password is = ")
+password = input("enter your password = ")
+print("your password is = ", password)
